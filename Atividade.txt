@@ -1,0 +1,6 @@
+ATIVIDADE PARA CASA
+
+1 Clonar o repositorio logica de programação para a maquina local.
+2 Criar um arquivo no repositorio local com nome casa.txt.
+3 no arquivo casa.txt insira a seguinte informação: "Crie este arquivo em
+            
