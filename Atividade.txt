@@ -2,5 +2,9 @@ ATIVIDADE PARA CASA
 
 1 Clonar o repositorio logica de programação para a maquina local.
 2 Criar um arquivo no repositorio local com nome casa.txt.
-3 no arquivo casa.txt insira a seguinte informação: "Crie este arquivo em  casa e farei o
-            
+3 no arquivo casa.txt insira a seguinte informação: "Crie este arquivo em  casa e farei o  commit de suas alterações
+e em seguida o push para o remoto."
+4 - Usar o github desktop faça o commit do arquivo das
+mudanças.
+5 - Agora fachada o push origin;
+6 - Acesse. o remoto e visualize o arquivo casatxt.            
